@@ -1,0 +1,16 @@
+{
+  "name": "ts-vscode-starter",
+  "version": "1.0.5",
+  "description": "Quick start TypeScript setup for VS Code.",
+  "main": "app.ts",
+  "devDependencies": {
+    "typescript": "^3.4.5",
+    "prettier": "^1.17.0",
+    "prettier-tslint": "^0.4.2",
+    "tslint": "^5.16.0",
+    "typescript-tslint-plugin": "^0.3.1"
+  },
+  "repository": "methodbox/ts-vscode-starter",
+  "author": "Chris Shaffer (methodbox)",
+  "license": "MIT"
+}
