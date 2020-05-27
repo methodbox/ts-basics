@@ -4,11 +4,12 @@
   "description": "Quick start TypeScript setup for VS Code.",
   "main": "app.ts",
   "devDependencies": {
+    "docdash": "^1.1.1",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-prettier": "^3.1.2",
     "prettier": "^1.19.1",
-    "prettier-tslint": "^0.4.2",
-    "tslint": "^5.20.1",
-    "typescript": "^3.7.4",
-    "typescript-tslint-plugin": "^0.3.1"
+    "typescript": "^3.7.4"
   },
   "repository": "methodbox/ts-vscode-starter",
   "author": "Chris Shaffer (methodbox)",
